@@ -9,6 +9,7 @@ namespace MicoChat_V1._0.Entry
     /// <summary>
     /// 发送消息实体
     /// </summary>
+    [Serializable]
     public class MessageEntry
     {
         //发送者 姓名

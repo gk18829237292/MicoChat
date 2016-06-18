@@ -10,7 +10,7 @@ namespace MicoChat_V1._0
     class UserManger
     {
         public static String name { get; set; }
-
+        public static UserEntry user { get; set; }
         private static List<UserEntry> userList { get; set; }
 
         public Dictionary<int, ChatForm> formManager = new Dictionary<int, ChatForm>();

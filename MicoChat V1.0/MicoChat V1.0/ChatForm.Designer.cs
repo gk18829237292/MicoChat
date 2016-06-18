@@ -39,16 +39,16 @@
             this.lb_chat.ItemHeight = 12;
             this.lb_chat.Location = new System.Drawing.Point(27, 28);
             this.lb_chat.Name = "lb_chat";
-            this.lb_chat.Size = new System.Drawing.Size(654, 160);
+            this.lb_chat.Size = new System.Drawing.Size(686, 304);
             this.lb_chat.TabIndex = 0;
             // 
             // lb_send
             // 
             this.lb_send.FormattingEnabled = true;
             this.lb_send.ItemHeight = 12;
-            this.lb_send.Location = new System.Drawing.Point(27, 225);
+            this.lb_send.Location = new System.Drawing.Point(27, 357);
             this.lb_send.Name = "lb_send";
-            this.lb_send.Size = new System.Drawing.Size(654, 184);
+            this.lb_send.Size = new System.Drawing.Size(686, 52);
             this.lb_send.TabIndex = 1;
             // 
             // btn_send
@@ -59,6 +59,7 @@
             this.btn_send.TabIndex = 2;
             this.btn_send.Text = "发送";
             this.btn_send.UseVisualStyleBackColor = true;
+            this.btn_send.Click += new System.EventHandler(this.btn_send_Click);
             // 
             // ChatForm
             // 

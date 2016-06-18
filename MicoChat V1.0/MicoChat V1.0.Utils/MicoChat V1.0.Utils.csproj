@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="BrodcastUtils.cs" />
     <Compile Include="MessageUtils.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

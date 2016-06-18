@@ -1,0 +1,6 @@
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0.Entry\obj\Debug\MicoChat V1.0.Entry.csprojResolveAssemblyReference.cache
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0.Entry\bin\Debug\MicoChat V1.0.Entry.exe.config
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0.Entry\bin\Debug\MicoChat V1.0.Entry.exe
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0.Entry\bin\Debug\MicoChat V1.0.Entry.pdb
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0.Entry\obj\Debug\MicoChat V1.0.Entry.exe
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0.Entry\obj\Debug\MicoChat V1.0.Entry.pdb

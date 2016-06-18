@@ -7,3 +7,17 @@ F:\程序\my_C#\MicoChat V1.0\MicoChat V1.0\obj\Debug\MicoChat_V1._0.Properties.
 F:\程序\my_C#\MicoChat V1.0\MicoChat V1.0\obj\Debug\MicoChat V1.0.csproj.GenerateResource.Cache
 F:\程序\my_C#\MicoChat V1.0\MicoChat V1.0\obj\Debug\MicoChat V1.0.exe
 F:\程序\my_C#\MicoChat V1.0\MicoChat V1.0\obj\Debug\MicoChat V1.0.pdb
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\bin\Debug\MicoChat V1.0.exe.config
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\obj\Debug\MicoChat V1.0.exe
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\obj\Debug\MicoChat V1.0.pdb
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\obj\Debug\MicoChat V1.0.csprojResolveAssemblyReference.cache
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\obj\Debug\MicoChat_V1._0.ChatForm.resources
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\obj\Debug\MicoChat_V1._0.Form1.resources
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\obj\Debug\MicoChat_V1._0.Properties.Resources.resources
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\obj\Debug\MicoChat V1.0.csproj.GenerateResource.Cache
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\bin\Debug\MicoChat V1.0.exe
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\bin\Debug\MicoChat V1.0.pdb
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\bin\Debug\MicoChat V1.0.Entry.exe
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\bin\Debug\MicoChat V1.0.Utils.exe
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\bin\Debug\MicoChat V1.0.Entry.pdb
+G:\Project\C#\MicoChat V1.0\MicoChat V1.0\MicoChat V1.0\bin\Debug\MicoChat V1.0.Utils.pdb

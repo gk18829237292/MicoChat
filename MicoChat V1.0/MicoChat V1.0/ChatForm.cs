@@ -26,5 +26,10 @@ namespace MicoChat_V1._0
         {
 
         }
+
+        private void btn_send_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

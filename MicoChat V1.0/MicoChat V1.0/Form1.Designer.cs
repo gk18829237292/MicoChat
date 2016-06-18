@@ -33,22 +33,9 @@
             // 
             // lb_UserList
             // 
-            this.lb_UserList.Font = new System.Drawing.Font("楷体", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.lb_UserList.Font = new System.Drawing.Font("KaiTi", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.lb_UserList.FormattingEnabled = true;
             this.lb_UserList.ItemHeight = 24;
-            this.lb_UserList.Items.AddRange(new object[] {
-            "1",
-            "1",
-            "4",
-            "1",
-            "1",
-            "1",
-            "2",
-            "1",
-            "1",
-            "1",
-            "1",
-            "1"});
             this.lb_UserList.Location = new System.Drawing.Point(2, 39);
             this.lb_UserList.Name = "lb_UserList";
             this.lb_UserList.Size = new System.Drawing.Size(270, 484);
